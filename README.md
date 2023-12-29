@@ -11,7 +11,11 @@ Programming Languages:
 - React?
 - Postgres
 
-## Task 1: (The Database)
+## Task 1: (The Schema)
+
+![Alt text](image.png)
+
+## Task 2: (The Database)
 
 |Task | Status |
 |--|--|
