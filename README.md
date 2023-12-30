@@ -19,6 +19,6 @@ Programming Languages:
 
 |Task | Status |
 |--|--|
-|Create schema for ATM||
-|Initialize DB||
+|Create schema for ATM|✅|
+|Initialize DB|✅|
 |Containerize and develop api with  nodejs||
