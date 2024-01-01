@@ -1,0 +1,23 @@
+{
+  "name": "scratch-pad",
+  "version": "1.0.0",
+  "description": "*Problem to Solve:*  Identifying the location and state of atm machines across Jamaica",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CabTheProgrammer/ATM-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CabTheProgrammer/ATM-backend/issues"
+  },
+  "homepage": "https://github.com/CabTheProgrammer/ATM-backend#readme",
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
