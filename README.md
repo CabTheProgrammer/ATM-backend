@@ -21,4 +21,4 @@ Programming Languages:
 |--|--|
 |Create schema for ATM|✅|
 |Initialize DB|✅|
-|Containerize and develop api with  nodejs||
+|Containerize and develop api with  nodejs|
